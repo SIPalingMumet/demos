@@ -13,6 +13,7 @@ class Hello extends StatelessWidget {
       appBar: AppBar(
         title:
  Text('Aplikasi Bisnis'),
+ backgroundColor: Colors.amber,
       ),
       body: 
       Center(
