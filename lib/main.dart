@@ -12,12 +12,12 @@ class Hello extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title:
- Text('Aplikasi EnterPrise Programing'),
- backgroundColor: Colors.blue,
+ Text('Aplikasi Bisnis'),
+ backgroundColor: Colors.amber,
       ),
       body: 
       Center(
-        child: Text("Halo Dunia Profgraming"),
+        child: Text("Halo Dunia Bisnis"),
       )
     );
   }
